@@ -1,6 +1,6 @@
 # IcarusMods
 
-#### [Mods ChangeLog](../master/THeOrangeFloof/ChangeLog.md)
+#### [Mods ChangeLog](../THeOrangeFloof/ChangeLog.md)
 
 #### Floofs Icarus Mods
 
