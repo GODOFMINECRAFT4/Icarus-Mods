@@ -1,3 +1,8 @@
+## Version 7
+Updated For Week 21
+    Mods Have Been Updated/Renamed   
+    So That The Content Is Accessable Now
+
 ## Version 6.1
     Quick Update To Fix Dropship Slots
 
