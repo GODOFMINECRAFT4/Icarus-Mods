@@ -13,6 +13,11 @@
 * Changes Max Solo Points To 100 At Lvl 100
 * Max Level And Display Level Increased
 
+* # Floofs_ModifiedLeveling Mod
+* This Is A Massively Changed Leveling Mod That Gives Lots Of Points
+* Changes Max Solo Points To 100 At Lvl 100
+* Max Level And Display Level Increased
+
 # Floofs_ModPack
 
 **> > > DEEP VEIN DRILLS NOW MINE FASTER!  < < <**

@@ -1,3 +1,10 @@
+## Version 12.1
+Updated For Week 26
+         Small Fix For Modpack
+         Update Fixes For LevelingMod   
+         Two Versions Exist Now one Following Base Curve    
+        And Another Following Modified Curve
+
 ## Version 12
 Updated For Week 26
     Mods Have Been Updated/Renamed   
