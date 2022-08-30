@@ -1,3 +1,7 @@
+## Version 24.1
+Updated For Week 38
+    Updated Extractor Mod To Work Again
+
 ## Version 24
 Updated For Week 38
     Mods Have Been Updated/Renamed   
