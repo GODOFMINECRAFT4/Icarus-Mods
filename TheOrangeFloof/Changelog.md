@@ -1,3 +1,8 @@
+## Version 26
+Updated For Week 40
+    Mods Have Been Updated/Renamed   
+    So That The Content Is Accessable Now
+
 ## Version 25
 Updated For Week 39
     Mods Have Been Updated/Renamed   
