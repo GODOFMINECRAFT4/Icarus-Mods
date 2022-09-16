@@ -1,3 +1,7 @@
+## Version 27
+Updated For Week 39
+    Mods Have Been Updated/Renamed   
+    So That The Content Is Accessable Now
 ## Version 26
 Updated For Week 40
     Fixed Bug In Mod (Thanks Jimk72)
