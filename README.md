@@ -6,5 +6,6 @@ Uploaded Them Here Or Allowed Them To Be Uploaded Here.
 
 ------------
 [Mods By The OrangeFloof](../master/TheOrangeFloof "Mods By The OrangeFloof")
+[Mods By Pr0f3ss0R#8960 [Discord]](../master/TheOrangeFloof "Mods By Pr0f3ss0R#8960 [Discord]")
 
 
