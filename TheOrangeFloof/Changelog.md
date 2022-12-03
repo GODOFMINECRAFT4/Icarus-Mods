@@ -1,3 +1,8 @@
+## Version 38
+Updated For Week 52
+    Mods Have Been Updated/Renamed   
+    So That The Content Is Accessable Now
+
 ## Version 37
 Updated For Week 51
     Mods Have Been Updated/Renamed   

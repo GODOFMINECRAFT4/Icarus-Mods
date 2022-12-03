@@ -34,6 +34,7 @@
 
 **POWER NETWORK & FUEL**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
+* Waterwheel supports a power network of 10,000
 * Fuel Can capacity increased to 50L (was 10)
 * Biofuel Lantern capacity increased to 5L (was 1)
 * Biofuel Lamp capacity increased to 8L (was 2)
