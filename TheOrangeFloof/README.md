@@ -5,6 +5,8 @@
 * Week Numbers Have Been Removed, As Not Every Mod Needs A Update Every Week
 * As There Is TOOO Many TO List
 
+**Some Features Are Broken Now Due To The Icarus Week Fifty Three Update | One Year of Icarus & Data Decentralization**
+
 # Floofs_LevelCap
 * Changes Max Display Level
 
