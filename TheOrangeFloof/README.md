@@ -10,13 +10,8 @@
 # Floofs_LevelCap
 * Changes Max Display Level
 
-# Floofs_Leveling Mod
+# Leveling Mod
 * This Is A Changed And Updated Version Of Lnkrs Releveling Mod
-* Changes Max Solo Points To 100 At Lvl 100
-* Max Level And Display Level Increased
-
-* # Floofs_ModifiedLeveling Mod
-* This Is A Massively Changed Leveling Mod That Gives Lots Of Points
 * Changes Max Solo Points To 100 At Lvl 100
 * Max Level And Display Level Increased
 
