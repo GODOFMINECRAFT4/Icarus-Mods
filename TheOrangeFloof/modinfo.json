@@ -3,7 +3,7 @@
             "name": "Extraction 10 Seconds",
             "author": "TheOrangeFloof",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Decreases Exotics Extractor Time To 10 Seconds",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_10_Seconds_P.pak?inline=false"
@@ -12,7 +12,7 @@
             "name": "Extraction 5 Seconds",
             "author": "TheOrangeFloof",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Decreases Exotics Extractor Time To 10 Seconds",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_5_Seconds_P.pak?inline=false"
@@ -21,7 +21,7 @@
             "name": "Floof LevelCap",
             "author": "TheOrangeFloof",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Increases Displayed Level And Max Level, Does Not Grant Extra Points After Level 50",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/FloofLevelCap%20_P.pak?inline=false"
@@ -30,7 +30,7 @@
             "name": "Floofs Leveling Mod",
             "author": "TheOrangeFloof",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Increases Displayed Level And Max Level, Should Grant Extra Points After Level 50",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/LevelingMod_P.pak?inline=false"
@@ -39,7 +39,7 @@
             "name": "Floofs ModPack",
             "author": "TheOrangeFloof",
             "version": "42.0",
-            "compatibility": "w68",
+            "compatibility": "w59",
             "description": "Floofs Modpack, Introduces A Bunch Of Changes And Overhauls To Items",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Floof_Modpack_P.pak?inline=false"

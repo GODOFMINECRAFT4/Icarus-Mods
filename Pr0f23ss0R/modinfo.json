@@ -3,7 +3,7 @@
             "name": "Pr0fPack",
             "author": "Pr0f23ss0R",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Pr0fPack, Is A Overhaul Mod, Which Changes Alot Of Things",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/pr0fpack/Pr0fPack_P.pak?inline=false"
@@ -12,7 +12,7 @@
             "name": "QolPack",
             "author": "Pr0f23ss0R",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Adds A Few QOL Changes To Inventory, Equiment And Crafting",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/qolpack/QolPack_P.pak?inline=false"
@@ -21,7 +21,7 @@
             "name": "Pr0fInventoryExtensions",
             "author": "Pr0f23ss0R",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "30 DropShip slots + prefilled canteen and o2 tank from the workshop",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/Pr0fInventoryExtensions_P.pak?inline=false"
@@ -30,7 +30,7 @@
             "name": "Pr0fWorkshopKits",
             "author": "Pr0f23ss0R",
             "version": "1.0",
-            "compatibility": "w58",
+            "compatibility": "w59",
             "description": "Adds Three Kits. Aluminium Base Kit (replaces stamina gel), Concrete Base Kit (replaces oxygen gel), Greenhouse Kit (replaces soda)",
             "fileType": "pak",
             "fileURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/Pr0fWorkshopKits_P.pak?inline=false"
