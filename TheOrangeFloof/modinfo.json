@@ -8,7 +8,7 @@
       "description": "Decreases Exotics Extractor Time To 10 Seconds",
       "files": {
         "pak": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_10_Seconds_P.pak?inline=false",
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_10_Seconds_P.EXMODZ?inline=false"
+        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_10_Seconds.EXMODZ?inline=false"
       },
       "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/README.md"
     },
@@ -20,7 +20,7 @@
       "description": "Decreases Exotics Extractor Time To 10 Seconds",
       "files": {
         "pak": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_5_Seconds_P.pak?inline=false",
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_5_Seconds_P.EXMODZ?inline=false"
+        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Extraction_5_Seconds.EXMODZ?inline=false"
       },
       "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/README.md"
     },
@@ -32,7 +32,7 @@
       "description": "Increases Displayed Level And Max Level, Does Not Grant Extra Points After Level 50",
       "files": {
         "pak": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/FloofLevelCap%20_P.pak?inline=false",
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/FloofLevelCap%20_P.EXMODZ?inline=false"
+        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/FloofLevelCap%20.EXMODZ?inline=false"
       },
       "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/README.md"
     },
@@ -55,7 +55,7 @@
       "description": "Floofs Modpack, Introduces A Bunch Of Changes And Overhauls To Items",
       "files": {
         "pak": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Floof_Modpack_P.pak?inline=false",
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Floof_Modpack_P.EXMODZ?inline=false"
+        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/Floof_Modpack.EXMODZ?inline=false"
       },
       "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/TheOrangeFloof/README.md"
     }
