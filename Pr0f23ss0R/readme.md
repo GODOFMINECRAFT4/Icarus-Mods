@@ -1,4 +1,7 @@
 Pr0fMods
+# DISCLAIMER
+# These Mods Are Only Updated Each Week And Not Maintained, Bugs Will Likely Not Be Fixed.
+
 
 some standalone mods, a qol-pack and my pr0fpack can be found in here.
 
