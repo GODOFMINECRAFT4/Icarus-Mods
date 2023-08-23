@@ -1,7 +1,8 @@
 Pr0fMods
 # DISCLAIMER
-# These Mods Are Only Updated Each Week And Not Maintained, Bugs Will Likely Not Be Fixed.
+# Profs Mods Will Likely Break Following The Release Of New Frontiers In Week 90. __BUGS WILL NOT BE FIXED__
 
+# These Mods Are Only Updated Each Week And Not Maintained, Bugs Will Likely Not Be Fixed.
 
 some standalone mods, a qol-pack and my pr0fpack can be found in here.
 
