@@ -65,6 +65,9 @@
 A New QOL Pack thats in beta being tested.  
 Has most of the changes from the modpack minus some of the bigger changes
 
+# Currency POC
+ * Currency Proof Of Concept  
+ This Currency is only added as a display at this time and no way to make it has been added
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
