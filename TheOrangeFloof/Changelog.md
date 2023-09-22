@@ -1,3 +1,7 @@
+## Version 55
+Updated For Week 94
+    Floofs Modpack Not Getting Many Updates For Now Working On QOL And Some Other Mod Ideas
+
 ## Version 54
 Updated For Week 89
     Updated The Mod Manually To Fix Layout Issues And Crafts.
