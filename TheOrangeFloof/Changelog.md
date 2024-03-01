@@ -1,3 +1,9 @@
+## Version 56
+Updated For Week 117
+    Focus Switched To Maintaining Floofs_QOL Modpack instead of Floofs_Modpack
+    Switched Modpack to .EXMODZ only
+    Kept Other Mods as Either PAK or Pak + EXMODZ
+
 ## Version 55
 Updated For Week 94
     Floofs Modpack Not Getting Many Updates For Now Working On QOL And Some Other Mod Ideas
