@@ -16,7 +16,7 @@
 * Changes Max Solo Points To 100 At Lvl 100
 * Max Level And Display Level Increased
 
-# Floofs_ModPack
+# Floofs_ModPack (Old Modpack Mod)
 
 **> > > DEEP VEIN DRILLS NOW MINE FASTER!  < < <**
 
