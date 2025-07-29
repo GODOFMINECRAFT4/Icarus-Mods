@@ -4,7 +4,7 @@
       "name": "Extraction 10 Seconds",
       "author": "TheOrangeFloof",
       "version": "1.0",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Decreases Exotics Extractor Time To 10 Seconds",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Extraction_10_Seconds_P.pak",
@@ -16,7 +16,7 @@
       "name": "Extraction 5 Seconds",
       "author": "TheOrangeFloof",
       "version": "1.0",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Decreases Exotics Extractor Time To 10 Seconds",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Extraction_5_Seconds_P.pak",
@@ -28,7 +28,7 @@
       "name": "Floof LevelCap",
       "author": "TheOrangeFloof",
       "version": "1.0",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Increases Displayed Level And Max Level, Does Not Grant Extra Points After Level 50",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/FloofLevelCap_P.pak",
@@ -40,7 +40,7 @@
       "name": "Floofs Leveling Mod",
       "author": "TheOrangeFloof",
       "version": "2.0",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Increases Displayed Level And Max Level, Should Grant Extra Points After Level 50",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Floof_LevelingMod_P.pak"
@@ -51,7 +51,7 @@
       "name": "Floofs ModPack",
       "author": "TheOrangeFloof",
       "version": "54.0",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Floofs Old Modpack, Introduces A Bunch Of Changes And Overhauls To Items, Exotics, Old And Not Really Updated",
       "files": {
         "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Floof_Modpack.EXMODZ"
@@ -62,7 +62,7 @@
       "name": "Floofs QOL",
       "author": "TheOrangeFloof",
       "version": "3.3",
-      "compatibility": "w189",
+      "compatibility": "w190",
       "description": "Floofs Modpack, Introduces A Bunch Of Changes And Overhauls To Items",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Floofs_QOL_P.pak",
