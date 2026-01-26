@@ -77,9 +77,9 @@
       "compatibility": "all",
       "description": "Pr0fPack, Is A Overhaul Mod, Which Changes Alot Of Things",
       "files": {
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/pr0fpack/Pr0fPack.EXMODZ?inline=false"
+        "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/pr0fpack/Pr0fPack.EXMODZ?inline=false"
       },
-      "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/pr0fpack/readme.md"
+      "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/pr0fpack/readme.md"
     },
     {
       "name": "QolPack",
@@ -88,9 +88,9 @@
       "compatibility": "all",
       "description": "Adds A Few QOL Changes To Inventory, Equiment And Crafting",
       "files": {
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/qolpack/QolPack.EXMODZ?inline=false"
+        "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/qolpack/QolPack.EXMODZ?inline=false"
       },
-      "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/qolpack/readme.md"
+      "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/qolpack/readme.md"
     },
     {
       "name": "Pr0fInventoryExtensions",
@@ -99,9 +99,9 @@
       "compatibility": "all",
       "description": "30 DropShip slots + prefilled canteen and o2 tank from the workshop",
       "files": {
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/Pr0fInventoryExtensions.EXMODZ?inline=false"
+        "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/standalone/Pr0fInventoryExtensions.EXMODZ?inline=false"
       },
-      "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/readme.md"
+      "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/standalone/readme.md"
     },
     {
       "name": "Pr0fWorkshopKits",
@@ -110,9 +110,9 @@
       "compatibility": "all",
       "description": "Adds Three Kits. Aluminium Base Kit (replaces stamina gel), Concrete Base Kit (replaces oxygen gel), Greenhouse Kit (replaces soda)",
       "files": {
-        "exmodz": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/Pr0fWorkshopKits.EXMODZ?inline=false"
+        "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/standalone/Pr0fWorkshopKits.EXMODZ?inline=false"
       },
-      "readmeURL": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/raw/master/Pr0f23ss0R/standalone/readme.md"
+      "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/Pr0f23ss0R/standalone/readme.md"
     }
   ]
 }
