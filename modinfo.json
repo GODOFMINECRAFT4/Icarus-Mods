@@ -48,21 +48,10 @@
       "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/README.md"
     },
     {
-      "name": "Floofs ModPack",
-      "author": "TheOrangeFloof",
-      "version": "54.0",
-      "compatibility": "all",
-      "description": "Floofs Old Modpack Most Likely BROKEN, Introduces A Bunch Of Changes And Overhauls To Items, Exotics, Old And Not Really Updated",
-      "files": {
-        "exmodz": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Floof_Modpack.EXMODZ"
-      },
-      "readmeURL": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/README.md"
-    },
-    {
       "name": "Floofs QOL",
       "author": "TheOrangeFloof",
       "version": "3.3",
-      "compatibility": "w224",
+      "compatibility": "w225",
       "description": "Floofs Modpack, Introduces A Bunch Of Changes And Overhauls To Items",
       "files": {
         "pak": "https://github.com/GODOFMINECRAFT4/Icarus-Mods/raw/master/TheOrangeFloof/Floofs_QOL_P.pak",
